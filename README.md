@@ -1,2 +1,0 @@
-# todoapp
-Sample project
